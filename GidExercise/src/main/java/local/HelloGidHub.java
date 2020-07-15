@@ -6,6 +6,10 @@ public class HelloGidHub {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello Java");
+		
+		// comments
+		// this is test class
+		
 	}
 
 }
